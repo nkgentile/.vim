@@ -47,3 +47,6 @@ set wildmenu " Display all matching files when tab-completing
 
 :let g:netrw_liststyle=3 " File list displays as tree
 :let g:netrw_banner=0 " Hide banner
+
+" FZF
+set rtp+=/usr/local/opt/fzf
