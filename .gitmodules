@@ -7,3 +7,6 @@
 [submodule "pack/plugins/start/fzf"]
 	path = pack/plugins/start/fzf
 	url = git@github.com:junegunn/fzf.vim.git
+[submodule "pack/plugins/start/coc.nvim"]
+	path = pack/plugins/start/coc.nvim
+	url = git@github.com:neoclide/coc.nvim.git
